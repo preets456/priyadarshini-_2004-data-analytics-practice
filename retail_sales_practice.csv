@@ -1,0 +1,613 @@
+order_id,order_date,customer_id,customer_name,city,category,product,quantity,unit_price,discount_pct,payment_method,delivery_status,customer_rating
+ORD5591,2025-04-13,C1095,Divya, coimbatore ,Grocery,Dal 1kg,1,140,20,Credit Card,Pending,4
+ORD5520,2025-02-17,C1020,Karthik, bengaluru ,Home,Pressure Cooker,1,1600,0,Credit Card,Cancelled,4
+ORD5588,2025-06-30,C1102,Nisha,Hyderabad,Clothing,Kurta,2,1200,15,UPI,Cancelled,4
+ORD5113,2025-02-16,C1004,Pooja,Chennai,Clothing,Jeans,1,1800,5,Cash on Delivery,Delivered,3
+ORD5322,13/08/2025,C1044,Lakshmi, coimbatore ,Home,Mixer Grinder,3,3200,20,Cash on Delivery,Delivered,2
+ORD5038,26/04/2025,C1104,Rahul,Delhi,Grocery,Tea Powder 500g,4,260,0,Credit Card,Delivered,1
+ORD5066,2025-10-12,C1092,Nisha, chennai ,Home,Pressure Cooker,4,1600,0,Cash on Delivery,Cancelled,5
+ORD5171,2025-01-23,C1023,Vijay,Delhi,Grocery,Dal 1kg,2,140,5,Credit Card,Delivered,4
+ORD5003,2025-08-05,C1084,Meena,Delhi,Home,Water Bottle,2,350,10,UPI,Cancelled,2
+ORD5146,2025-08-09,C1096,Gopal,Chennai,Electronics,Power Bank,1,1500,5,Net Banking,Delivered,5
+ORD5092,17/02/2025,C1039,Deepa,Madurai,Electronics,Smart Watch,1,4500,0,,Delivered,3
+ORD5090,2025-04-15,C1080,Priya,Bengaluru,Home,Mixer Grinder,1,3200,15,Credit Card,Delivered,5
+ORD5280,2025-06-07,C1048,Kiran,,Home,Water Bottle,1,350,5,,Delivered,5
+ORD5033,2025-09-17,C1084,Meena,Delhi,Electronics,Power Bank,1,1500,20,Cash on Delivery,Delivered,4
+ORD5390,2025-12-13,C1045,Harish,,Home,Mixer Grinder,1,3200,5,Credit Card,Delivered,
+ORD5397,30/07/2025,C1082,Vijay, hyderabad ,Clothing,Kurta,2,1200,10,UPI,Delivered,
+ORD5099,2025-09-15,C1063,Deepa,Coimbatore,Electronics,Earbuds,2,2000,5,UPI,Pending,5
+ORD5531,2025-11-07,C1013,Gopal,Madurai,Clothing,Saree,1,2500,5,Cash on Delivery,Delivered,4
+ORD5098,2025-06-12,C1029,Kavya,Delhi,Home,Mixer Grinder,3,3200,10,Cash on Delivery,Delivered,3
+ORD5229,2025-10-31,C1020,Karthik,Bengaluru,Home,Water Bottle,1,350,,Net Banking,Returned,5
+ORD5211,2025-11-11,C1035,Lakshmi,,Grocery,Tea Powder 500g,2,260,0,Net Banking,Cancelled,3
+ORD5222,2025-09-11,C1006,Divya, chennai ,Electronics,Power Bank,2,1500,20,Cash on Delivery,Delivered,5
+ORD5091,2025-01-15,C1112,Lakshmi,Chennai,Home,Mixer Grinder,3,3200,15,Credit Card,Cancelled,3
+ORD5555,2025-03-18,C1065,Nisha,Chennai,Clothing,Jeans,1,1800,0,Debit Card,Returned,2
+ORD5571,2025-11-30,C1013,Gopal,Madurai,Grocery,Dal 1kg,2,140,5,Debit Card,Pending,5
+ORD5041,2025-04-01,C1099,Karthik,Delhi,Home,Bedsheet,4,900,20,Net Banking,Delivered,1
+ORD5598,06/04/2025,C1041,Vijay,,Clothing,Saree,2,2500,5,Credit Card,Delivered,5
+ORD5374,2025-07-06,C1031,Ravi,Mumbai,Electronics,Smart Watch,2,4500,0,,Pending,1
+ORD5051,2025-11-26,C1075,Meena,Mumbai,Electronics,Smartphone,500,15000,0,Cash on Delivery,Delivered,1
+ORD5124,2025-01-26,C1011,Pooja, bengaluru ,Grocery,Basmati Rice 5kg,4,650,5,Credit Card,Delivered,3
+ORD5095,2025-09-17,C1035,Lakshmi,Delhi,Home,Water Bottle,1,350,0,Debit Card,Cancelled,4
+ORD5078,2025-10-10,C1020,Karthik, bengaluru ,Grocery,Cooking Oil 1L,1,180,0,UPI,Delivered,5
+ORD5055,2025-12-09,C1030,Deepa,Hyderabad,Grocery,Dal 1kg,1,140,15,Credit Card,Delivered,4
+ORD5565,2025-09-04,C1064,Suresh,Hyderabad,Electronics,Smartphone,3,15000,0,Net Banking,Returned,1
+ORD5073,2025-08-29,C1013,Gopal,Madurai,Electronics,Power Bank,2,1500,10,Debit Card,Delivered,1
+ORD5580,12/12/2025,C1100,Pooja,Delhi,Grocery,Cooking Oil 1L,1,180,5,Credit Card,Cancelled,1
+ORD5117,23/11/2025,C1086,Rahul,Hyderabad,Clothing,Kurta,1,1200,0,Credit Card,Delivered,1
+ORD5216,2025-04-15,C1053,Ravi,Hyderabad,Home,Pressure Cooker,1,1600,15,Credit Card,Delivered,4
+ORD5061,2025-08-11,C1081,Arun,Mumbai,Home,Bedsheet,1,900,20,Net Banking,Cancelled,4
+ORD5125,30/04/2025,C1008,Lakshmi,Hyderabad,Grocery,Cooking Oil 1L,1,180,0,Net Banking,Delivered,4
+ORD5332,2025-08-05,C1053,Ravi,Hyderabad,Grocery,Dal 1kg,1,140,10,Net Banking,Cancelled,3
+ORD5238,20/12/2025,C1038,Deepa,Coimbatore,Clothing,Jeans,3,1800,10,Debit Card,Delivered,4
+ORD5459,2025-06-19,C1028,Anitha,DELHI,Clothing,Kurta,1,1200,5,Net Banking,Delivered,5
+ORD5063,2025-05-23,C1109,Deepa,BENGALURU,Grocery,Basmati Rice 5kg,2,650,0,Cash on Delivery,Returned,4
+ORD5477,2025-07-03,C1099,Karthik,Delhi,Clothing,Jeans,3,1800,10,Debit Card,Delivered,1
+ORD5056,2025-11-07,C1098,Nisha, delhi ,Clothing,Jeans,2,1800,20,UPI,Pending,3
+ORD5040,2025-03-17,C1063,Deepa,Coimbatore,Home,Bedsheet,3,900,20,UPI,Pending,2
+ORD5589,24/07/2025,C1031,Ravi,MUMBAI,Clothing,T-Shirt,3,600,20,Debit Card,Delivered,5
+ORD5343,2025-07-30,C1115,Lakshmi,Hyderabad,Electronics,Earbuds,1,2000,5,Credit Card,Cancelled,3
+ORD5410,2025-12-29,C1083,Priya,Hyderabad,Clothing,Jeans,2,1800,20,Net Banking,Pending,4
+ORD5161,2025-02-01,C1041,Vijay,Mumbai,Home,Bedsheet,2,900,0,Debit Card,Cancelled,2
+ORD5156,30/03/2025,C1018,Ravi, delhi ,Clothing,Jeans,2,1800,0,UPI,Delivered,5
+ORD5160,2025-10-25,C1078,Kiran,Chennai,Home,Pressure Cooker,2,1600,20,UPI,Delivered,
+ORD5310,2025-06-21,C1102,Nisha, hyderabad ,Clothing,Kurta,2,1200,20,Net Banking,Delivered,4
+ORD5018,2025-04-15,C1036,Meena,Bengaluru,Grocery,Tea Powder 500g,3,260,20,Debit Card,Returned,5
+ORD5107,2025-08-27,C1058,Lakshmi,Mumbai,Clothing,T-Shirt,1,600,20,Net Banking,Delivered,2
+ORD5190,2025-11-28,C1060,Vijay,Mumbai,Clothing,T-Shirt,1,600,5,Debit Card,Pending,1
+ORD5515,2025-05-31,C1096,Gopal,,Grocery,Cooking Oil 1L,2,180,0,UPI,Delivered,3
+ORD5363,2025-10-07,C1110,Rahul,,Home,Water Bottle,3,350,0,Cash on Delivery,Pending,2
+ORD5193,2025-02-10,C1034,Anitha,Chennai,Electronics,Smart Watch,2,4500,15,Credit Card,Returned,4
+ORD5574,2025-12-04,C1099,Karthik,DELHI,Home,Bedsheet,1,900,,Credit Card,Delivered,3
+ORD5298,2025-01-28,C1101,Suresh,Coimbatore,Electronics,Power Bank,1,1500,10,Credit Card,Pending,2
+ORD5142,2025-02-16,C1008,Lakshmi, hyderabad ,Grocery,Basmati Rice 5kg,3,650,15,Credit Card,Delivered,4
+ORD5301,2025-02-12,C1102,Nisha,Hyderabad,Grocery,Basmati Rice 5kg,-2,650,0,Cash on Delivery,Cancelled,3
+ORD5317,2025-03-27,C1013,Gopal,Madurai,Grocery,Tea Powder 500g,3,260,15,UPI,Returned,4
+ORD5031,2025-01-23,C1115,Lakshmi,Hyderabad,Grocery,Tea Powder 500g,3,260,10,UPI,Returned,5
+ORD5176,2025-04-24,C1018,Ravi,Delhi,Home,Mixer Grinder,4,3200,10,Debit Card,Delivered,4
+ORD5568,2025-04-30,C1017,Vijay,,Clothing,Kurta,4,1200,0,Debit Card,Returned,5
+ORD5139,2025-10-12,C1028,Anitha,Delhi,Electronics,Power Bank,1,1500,0,Debit Card,Returned,3
+ORD5149,2025-03-08,C1095,Divya,Coimbatore,Home,Bedsheet,2,900,,Credit Card,Returned,5
+ORD5420,2025-08-09,C1043,Priya,HYDERABAD,Home,Mixer Grinder,3,3200,0,Net Banking,Delivered,3
+ORD5582,2025-02-16,C1066,Divya,Delhi,Electronics,Smartphone,2,15000,5,Net Banking,Returned,4
+ORD5268,2025-01-23,C1057,Vijay,Coimbatore,Electronics,Earbuds,2,2000,10,Credit Card,Returned,3
+ORD5443,2025-04-09,C1099,Karthik,Delhi,Electronics,Earbuds,4,2000,0,UPI,Delivered,1
+ORD5346,2025-08-21,C1095,Divya,Coimbatore,Clothing,Saree,2,2500,5,Net Banking,Delivered,2
+ORD5424,2025-02-19,C1105,Kavya,BENGALURU,Home,Bedsheet,1,900,0,Credit Card,Cancelled,4
+ORD5518,2025-11-17,C1118,Divya,Coimbatore,Clothing,T-Shirt,2,600,20,Debit Card,Delivered,5
+ORD5129,2025-08-20,C1099,Karthik,Delhi,Clothing,T-Shirt,2,600,0,Net Banking,Delivered,5
+ORD5408,2025-07-11,C1108,Anitha,Bengaluru,Clothing,T-Shirt,3,600,20,Cash on Delivery,Returned,2
+ORD5381,2025-01-01,C1081,Arun,Mumbai,Electronics,Power Bank,4,1500,20,Cash on Delivery,Pending,4
+ORD5385,30/05/2025,C1055,Nisha,Bengaluru,Grocery,Cooking Oil 1L,1,180,,Cash on Delivery,Cancelled,4
+ORD5440,2025-06-14,C1017,Vijay,Coimbatore,Clothing,Kurta,1,1200,20,Cash on Delivery,Returned,2
+ORD5341,2025-04-16,C1021,Meena,,Grocery,Cooking Oil 1L,4,180,0,Net Banking,Delivered,5
+ORD5407,2025-01-12,C1117,Karthik,,Clothing,T-Shirt,1,600,15,Credit Card,Pending,2
+ORD5458,15/12/2025,C1016,Sneha,Madurai,Clothing,Jeans,1,1800,20,UPI,Delivered,4
+ORD5271,12/10/2025,C1007,Karthik,Coimbatore,Grocery,Dal 1kg,2,140,0,,Cancelled,4
+ORD5133,09/08/2025,C1012,Lakshmi,BENGALURU,Electronics,Earbuds,2,2000,0,Cash on Delivery,Delivered,5
+ORD5370,2025-07-10,C1044,Lakshmi, coimbatore ,Clothing,Jeans,1,1800,20,Debit Card,Cancelled,2
+ORD5523,2025-02-28,C1005,Gopal,Bengaluru,Clothing,Kurta,2,1200,5,Net Banking,Cancelled,4
+ORD5166,2025-11-01,C1083,Priya,HYDERABAD,Home,Bedsheet,3,900,0,Debit Card,Returned,
+ORD5466,2025-01-20,C1061,Gopal,Bengaluru,Home,Mixer Grinder,2,3200,0,Debit Card,Delivered,4
+ORD5140,2025-11-08,C1103,Priya,Madurai,Home,Mixer Grinder,3,3200,20,Debit Card,Delivered,3
+ORD5151,2025-10-22,C1058,Lakshmi,Mumbai,Electronics,Power Bank,2,1500,15,Cash on Delivery,Cancelled,4
+ORD5513,2025-08-02,C1118,Divya,Coimbatore,Home,Pressure Cooker,4,1600,20,Debit Card,Returned,1
+ORD5048,2025-01-04,C1109,Deepa,BENGALURU,Home,Pressure Cooker,1,1600,5,Cash on Delivery,Pending,4
+ORD5196,2025-12-10,C1035,Lakshmi,Delhi,Electronics,Smartphone,3,15000,10,Debit Card,Returned,3
+ORD5219,2025-11-12,C1006,Divya,Chennai,Clothing,Kurta,2,1200,0,Credit Card,Pending,4
+ORD5455,01/06/2025,C1092,Nisha,Chennai,Electronics,Smart Watch,1,4500,10,Cash on Delivery,Delivered,1
+ORD5519,27/09/2025,C1045,Harish,Bengaluru,Electronics,Power Bank,1,1500,0,Net Banking,Delivered,5
+ORD5573,2025-10-14,C1061,Gopal,Bengaluru,Grocery,Tea Powder 500g,2,260,10,Debit Card,Delivered,4
+ORD5432,2025-02-10,C1016,Sneha,Madurai,Electronics,Smart Watch,3,4500,10,Credit Card,Pending,3
+ORD5587,2025-02-04,C1061,Gopal,Bengaluru,Electronics,Power Bank,2,1500,20,Credit Card,Cancelled,3
+ORD5110,2025-12-04,C1089,Priya,Hyderabad,Clothing,T-Shirt,2,600,5,UPI,Returned,1
+ORD5071,2025-04-27,C1012,Lakshmi,Bengaluru,Grocery,Tea Powder 500g,1,260,0,,Delivered,
+ORD5022,2025-03-07,C1074,Arun,Mumbai,Grocery,Dal 1kg,1,140,5,Debit Card,Pending,1
+ORD5504,2025-11-08,C1112,Lakshmi,Chennai,Home,Pressure Cooker,3,1600,,Debit Card,Delivered,4
+ORD5302,2025-07-04,C1094,Anitha,Coimbatore,Home,Water Bottle,1,350,0,UPI,Delivered,5
+ORD5175,2025-05-26,C1070,Karthik,Bengaluru,Electronics,Smartphone,1,15000,,Debit Card,Delivered,5
+ORD5300,2025-04-06,C1045,Harish,Bengaluru,Home,Pressure Cooker,3,1600,15,Cash on Delivery,Delivered,4
+ORD5064,2025-06-16,C1043,Priya,Hyderabad,Electronics,Smart Watch,1,4500,10,Credit Card,Delivered,4
+ORD5182,2025-11-20,C1107,Ravi,Mumbai,Home,Mixer Grinder,2,3200,15,Credit Card,Cancelled,3
+ORD5549,2025-01-21,C1094,Anitha,,Home,Water Bottle,1,350,10,Credit Card,Delivered,4
+ORD5005,2025-05-23,C1017,Vijay,Coimbatore,Home,Bedsheet,2,900,0,UPI,Delivered,5
+ORD5147,2025-04-23,C1085,Anitha, delhi ,Clothing,T-Shirt,2,600,15,UPI,Delivered,3
+ORD5319,11/07/2025,C1095,Divya,Coimbatore,Grocery,Dal 1kg,2,140,10,,Cancelled,5
+ORD5550,2025-12-09,C1047,Pooja,Coimbatore,Grocery,Basmati Rice 5kg,1,650,15,Debit Card,Delivered,5
+ORD5179,2025-08-18,C1089,Priya,Hyderabad,Grocery,Dal 1kg,2,140,0,UPI,Delivered,
+ORD5364,2025-05-15,C1002,Lakshmi,Coimbatore,Electronics,Smartphone,1,15000,0,UPI,Pending,4
+ORD5314,2025-12-11,C1106,Ravi,Hyderabad,Electronics,Smart Watch,2,4500,0,,Delivered,4
+ORD5075,2025-02-13,C1019,Kiran,Chennai,Grocery,Tea Powder 500g,1,260,0,Net Banking,Pending,4
+ORD5039,2025-08-22,C1031,Ravi,Mumbai,Home,Mixer Grinder,2,3200,20,Net Banking,Delivered,4
+ORD5269,2025-09-15,C1096,Gopal,CHENNAI,Electronics,Earbuds,1,2000,0,Net Banking,Delivered,4
+ORD5256,2025-12-26,C1058,Lakshmi,Mumbai,Clothing,Kurta,2,1200,10,Net Banking,Pending,3
+ORD5089,2025-07-31,C1110,Rahul,Bengaluru,Electronics,Smart Watch,1,4500,0,Net Banking,Delivered,
+ORD5331,2025-04-04,C1030,Deepa,Hyderabad,Clothing,T-Shirt,1,600,20,Credit Card,Returned,4
+ORD5007,2025-01-31,C1061,Gopal,Bengaluru,Grocery,Dal 1kg,1,140,10,UPI,Delivered,4
+ORD5599,2025-04-05,C1078,Kiran,Chennai,Clothing,Saree,2,2500,10,,Delivered,4
+ORD5409,2025-03-11,C1043,Priya,Hyderabad,Clothing,Saree,1,2500,20,Cash on Delivery,Pending,5
+ORD5213,2025-01-24,C1105,Kavya,Bengaluru,Electronics,Smartphone,3,15000,15,Debit Card,Cancelled,3
+ORD5584,2025-09-17,C1033,Lakshmi,Delhi,Grocery,Dal 1kg,1,140,15,UPI,Returned,4
+ORD5399,2025-07-03,C1101,Suresh, coimbatore ,Electronics,Smart Watch,2,4500,15,Cash on Delivery,Delivered,5
+ORD5369,2025-01-07,C1039,Deepa, madurai ,Grocery,Basmati Rice 5kg,3,650,0,UPI,Delivered,5
+ORD5186,2025-02-04,C1095,Divya,COIMBATORE,Electronics,Power Bank,1,1500,,UPI,Pending,4
+ORD5212,2025-12-04,C1075,Meena,Mumbai,Grocery,Cooking Oil 1L,2,180,20,Net Banking,Delivered,1
+ORD5386,2025-04-30,C1040,Ravi,Mumbai,Home,Water Bottle,1,350,0,Credit Card,Pending,2
+ORD5449,2025-11-04,C1060,Vijay,Mumbai,Grocery,Cooking Oil 1L,4,180,0,Credit Card,Delivered,4
+ORD5378,2025-07-08,C1070,Karthik,Bengaluru,Home,Mixer Grinder,1,3200,5,Net Banking,Pending,4
+ORD5460,2025-01-28,C1108,Anitha,Bengaluru,Electronics,Smart Watch,4,4500,20,Net Banking,Returned,2
+ORD5167,2025-12-10,C1082,Vijay,,Clothing,Jeans,3,1800,20,Net Banking,Delivered,
+ORD5027,2025-04-25,C1044,Lakshmi,Coimbatore,Clothing,Jeans,1,1800,20,Credit Card,Delivered,4
+ORD5115,2025-02-08,C1102,Nisha,Hyderabad,Electronics,Smart Watch,1,4500,0,Cash on Delivery,Pending,5
+ORD5489,2025-06-27,C1084,Meena,Delhi,Grocery,Dal 1kg,3,140,20,Cash on Delivery,Delivered,5
+ORD5251,2025-07-25,C1065,Nisha,CHENNAI,Clothing,T-Shirt,3,600,0,Credit Card,Delivered,5
+ORD5419,2025-07-12,C1009,Kavya,Chennai,Clothing,Jeans,1,1800,20,UPI,Returned,2
+ORD5480,2025-11-26,C1009,Kavya,Chennai,Electronics,Power Bank,1,1500,10,Debit Card,Delivered,5
+ORD5429,2025-09-25,C1070,Karthik,Bengaluru,Electronics,Smart Watch,2,4500,15,Cash on Delivery,Returned,3
+ORD5106,2025-09-12,C1010,Pooja,Coimbatore,Home,Bedsheet,2,900,0,Credit Card,Delivered,4
+ORD5548,2025-03-23,C1096,Gopal,Chennai,Grocery,Dal 1kg,1,140,15,Net Banking,Cancelled,3
+ORD5259,2025-09-19,C1091,Kavya,Madurai,Home,Mixer Grinder,2,3200,0,Cash on Delivery,Delivered,5
+ORD5491,2025-09-09,C1111,Meena,Coimbatore,Grocery,Basmati Rice 5kg,1,650,0,Debit Card,Delivered,1
+ORD5557,2025-11-28,C1061,Gopal,Bengaluru,Grocery,Cooking Oil 1L,4,180,10,UPI,Delivered,1
+ORD5281,2025-04-15,C1012,Lakshmi,Bengaluru,Home,Water Bottle,1,350,5,Cash on Delivery,Delivered,3
+ORD5564,2025-04-01,C1105,Kavya,Bengaluru,Grocery,Basmati Rice 5kg,2,650,,Net Banking,Delivered,5
+ORD5195,2025-08-17,C1021,Meena, madurai ,Home,Water Bottle,1,350,20,Debit Card,Returned,4
+ORD5416,2025-07-17,C1092,Nisha,CHENNAI,Electronics,Smartphone,2,15000,20,Cash on Delivery,Delivered,4
+ORD5463,2025-09-07,C1040,Ravi,Mumbai,Grocery,Basmati Rice 5kg,1,650,20,Credit Card,Delivered,1
+ORD5335,17/12/2025,C1071,Manoj,HYDERABAD,Home,Pressure Cooker,2,1600,10,,Delivered,3
+ORD5352,2025-07-22,C1047,Pooja,Coimbatore,Grocery,Basmati Rice 5kg,3,650,5,Credit Card,Delivered,2
+ORD5258,2025-03-26,C1007,Karthik,COIMBATORE,Grocery,Cooking Oil 1L,1,180,15,Cash on Delivery,Delivered,3
+ORD5037,2025-05-26,C1101,Suresh,Coimbatore,Grocery,Basmati Rice 5kg,2,650,20,Net Banking,Delivered,2
+ORD5019,2025-11-21,C1032,Karthik,Chennai,Electronics,Smartphone,2,15000,5,UPI,Delivered,4
+ORD5285,2025-03-13,C1093,Meena,Madurai,Clothing,Jeans,3,1800,15,Cash on Delivery,Delivered,5
+ORD5592,2025-05-08,C1026,Meena,Bengaluru,Grocery,Cooking Oil 1L,4,180,15,,Delivered,2
+ORD5228,07/11/2025,C1066,Divya, delhi ,Home,Bedsheet,2,900,0,Debit Card,Returned,4
+ORD5311,2025-06-10,C1041,Vijay,Mumbai,Grocery,Dal 1kg,1,140,10,Debit Card,Delivered,5
+ORD5035,2025-10-08,C1078,Kiran,Chennai,Clothing,Kurta,4,1200,0,Debit Card,Delivered,3
+ORD5096,2025-08-17,C1107,Ravi,Mumbai,Home,Bedsheet,2,900,10,Debit Card,Delivered,5
+ORD5499,2025-05-11,C1105,Kavya,Bengaluru,Home,Mixer Grinder,2,3200,0,Credit Card,Delivered,4
+ORD5284,2025-09-08,C1063,Deepa,Coimbatore,Clothing,Saree,3,2500,20,Cash on Delivery,Delivered,3
+ORD5016,2025-11-10,C1020,Karthik,Bengaluru,Home,Water Bottle,4,350,20,Net Banking,Delivered,5
+ORD5368,2025-05-06,C1093,Meena,Madurai,Grocery,Basmati Rice 5kg,1,650,10,UPI,Delivered,1
+ORD5328,2025-05-15,C1025,Harish, hyderabad ,Home,Mixer Grinder,3,3200,,Net Banking,Cancelled,4
+ORD5337,2025-10-09,C1021,Meena,Madurai,Home,Pressure Cooker,2,1600,0,Net Banking,Delivered,4
+ORD5232,2025-09-26,C1074,Arun,Mumbai,Home,Bedsheet,3,900,20,Net Banking,Pending,4
+ORD5401,2025-08-30,C1114,Gopal,,Clothing,T-Shirt,2,600,5,Net Banking,Delivered,3
+ORD5392,2025-04-12,C1007,Karthik,Coimbatore,Grocery,Cooking Oil 1L,4,180,10,Debit Card,Cancelled,2
+ORD5024,2025-05-02,C1113,Kiran,CHENNAI,Home,Bedsheet,4,900,0,Credit Card,Delivered,1
+ORD5451,2025-10-27,C1059,Pooja,Hyderabad,Clothing,Kurta,1,1200,0,,Cancelled,4
+ORD5366,2025-02-12,C1068,Priya,Delhi,Grocery,Tea Powder 500g,1,260,0,Net Banking,Delivered,3
+ORD5554,2025-09-14,C1062,Gopal,BENGALURU,Home,Mixer Grinder,1,3200,10,Credit Card,Delivered,2
+ORD5469,2025-05-29,C1105,Kavya,Bengaluru,Electronics,Power Bank,2,1500,20,Net Banking,Returned,5
+ORD5272,2025-07-29,C1100,Pooja,Delhi,Clothing,Kurta,1,1200,5,Cash on Delivery,Delivered,5
+ORD5252,2025-05-14,C1041,Vijay,Mumbai,Grocery,Basmati Rice 5kg,2,650,0,Cash on Delivery,Pending,4
+ORD5058,2025-12-23,C1009,Kavya,Chennai,Grocery,Basmati Rice 5kg,4,650,5,Net Banking,Pending,2
+ORD5338,2025-08-14,C1099,Karthik,Delhi,Clothing,T-Shirt,2,600,0,Cash on Delivery,Delivered,3
+ORD5544,2025-09-17,C1093,Meena, madurai ,Electronics,Smartphone,3,15000,,Net Banking,Returned,4
+ORD5072,2025-01-28,C1016,Sneha,Madurai,Clothing,T-Shirt,2,600,5,Credit Card,Cancelled,5
+ORD5144,2025-03-22,C1113,Kiran,Chennai,Electronics,Earbuds,4,2000,15,UPI,Cancelled,2
+ORD5485,2025-03-23,C1014,Arun,Delhi,Grocery,Basmati Rice 5kg,1,650,10,Net Banking,Delivered,5
+ORD5148,2025-05-11,C1038,Deepa,COIMBATORE,Grocery,Cooking Oil 1L,1,180,5,UPI,Delivered,5
+ORD5353,2025-04-20,C1090,Rahul,Chennai,Electronics,Smartphone,2,15000,0,Credit Card,Returned,3
+ORD5274,2025-08-02,C1117,Karthik,Mumbai,Electronics,Smart Watch,2,4500,15,Credit Card,Delivered,3
+ORD5253,2025-05-14,C1042,Karthik,Hyderabad,Clothing,T-Shirt,3,600,5,Credit Card,Delivered,2
+ORD5438,2025-12-20,C1004,Pooja,Chennai,Home,Water Bottle,1,350,,Cash on Delivery,Delivered,4
+ORD5082,13/08/2025,C1101,Suresh,Coimbatore,Clothing,Saree,1,2500,10,Debit Card,Cancelled,4
+ORD5127,2025-05-02,C1016,Sneha,Madurai,Electronics,Power Bank,2,1500,5,UPI,Delivered,4
+ORD5467,2025-12-13,C1096,Gopal,Chennai,Grocery,Basmati Rice 5kg,1,650,20,Credit Card,Delivered,4
+ORD5081,17/05/2025,C1069,Sneha, hyderabad ,Grocery,Cooking Oil 1L,4,180,,UPI,Delivered,3
+ORD5447,2025-10-20,C1049,Divya,COIMBATORE,Electronics,Earbuds,4,2000,0,Credit Card,Cancelled,3
+ORD5505,2025-03-12,C1037,Vijay,Bengaluru,Home,Bedsheet,2,900,15,Net Banking,Delivered,5
+ORD5260,2025-10-14,C1053,Ravi,Hyderabad,Home,Mixer Grinder,2,3200,20,Debit Card,Cancelled,1
+ORD5309,2025-06-05,C1058,Lakshmi,MUMBAI,Electronics,Earbuds,1,2000,10,Debit Card,Pending,4
+ORD5255,2025-11-11,C1081,Arun,Mumbai,Clothing,Saree,1,2500,0,Credit Card,Delivered,3
+ORD5428,2025-12-09,C1096,Gopal,Chennai,Electronics,Smartphone,1,15000,15,Cash on Delivery,Pending,3
+ORD5278,2025-01-08,C1026,Meena,Bengaluru,Clothing,Saree,1,2500,0,UPI,Cancelled,5
+ORD5563,2025-01-09,C1049,Divya,Coimbatore,Grocery,Basmati Rice 5kg,1,650,15,,Cancelled,4
+ORD5533,2025-06-02,C1101,Suresh,Coimbatore,Clothing,Jeans,3,1800,20,Debit Card,Delivered,5
+ORD5234,2025-07-31,C1040,Ravi,Mumbai,Home,Bedsheet,3,900,0,Cash on Delivery,Returned,5
+ORD5318,2025-02-24,C1096,Gopal, chennai ,Clothing,Kurta,1,1200,0,Debit Card,Delivered,
+ORD5052,2025-04-19,C1033,Lakshmi,Delhi,Home,Water Bottle,2,350,5,Debit Card,Pending,4
+ORD5224,2025-01-27,C1046,Vijay, mumbai ,Electronics,Smart Watch,2,4500,15,Credit Card,Delivered,5
+ORD5123,2025-07-23,C1069,Sneha,Hyderabad,Clothing,T-Shirt,1,600,0,UPI,Pending,5
+ORD5402,2025-05-17,C1012,Lakshmi,Bengaluru,Grocery,Cooking Oil 1L,2,180,20,UPI,Pending,3
+ORD5194,2025-06-17,C1041,Vijay,Mumbai,Electronics,Smartphone,3,15000,5,Debit Card,Delivered,4
+ORD5236,30/03/2025,C1067,Meena,Coimbatore,Home,Water Bottle,2,350,15,Debit Card,Returned,4
+ORD5529,2025-08-10,C1049,Divya,Coimbatore,Home,Pressure Cooker,1,1600,0,Cash on Delivery,Cancelled,2
+ORD5365,2025-08-05,C1064,Suresh,Hyderabad,Clothing,Kurta,3,1200,10,UPI,Cancelled,5
+ORD5475,2025-08-04,C1026,Meena,Bengaluru,Electronics,Power Bank,3,1500,0,Net Banking,Delivered,3
+ORD5525,2025-10-03,C1010,Pooja,Coimbatore,Electronics,Earbuds,2,2000,0,UPI,Delivered,3
+ORD5556,19/06/2025,C1084,Meena,Delhi,Grocery,Dal 1kg,3,140,0,Cash on Delivery,Cancelled,5
+ORD5371,08/08/2025,C1098,Nisha,Delhi,Electronics,Power Bank,1,1500,15,UPI,Delivered,2
+ORD5277,2025-10-28,C1111,Meena,Coimbatore,Electronics,Earbuds,3,2000,20,Net Banking,Delivered,5
+ORD5559,2025-09-22,C1021,Meena,Madurai,Clothing,Jeans,2,1800,15,Net Banking,Cancelled,1
+ORD5032,2025-08-09,C1087,Ravi,Coimbatore,Grocery,Tea Powder 500g,1,260,20,Debit Card,Returned,4
+ORD5380,2025-01-04,C1097,Karthik,Mumbai,Grocery,Cooking Oil 1L,2,180,0,Credit Card,Returned,4
+ORD5411,2025-06-07,C1028,Anitha,Delhi,Grocery,Dal 1kg,3,140,20,Debit Card,Delivered,3
+ORD5168,2025-07-05,C1065,Nisha,Chennai,Clothing,T-Shirt,1,600,0,Credit Card,Delivered,5
+ORD5201,2025-04-20,C1033,Lakshmi, delhi ,Clothing,Kurta,2,1200,5,Cash on Delivery,Delivered,2
+ORD5362,2025-09-28,C1030,Deepa,Hyderabad,Home,Mixer Grinder,1,3200,5,Debit Card,Delivered,4
+ORD5296,2025-04-17,C1022,Deepa,Hyderabad,Clothing,T-Shirt,2,600,0,Cash on Delivery,Delivered,4
+ORD5430,2025-07-22,C1060,Vijay,MUMBAI,Clothing,T-Shirt,4,600,20,UPI,Returned,5
+ORD5562,2025-08-21,C1033,Lakshmi,,Grocery,Tea Powder 500g,2,260,15,UPI,Delivered,4
+ORD5551,2025-01-21,C1117,Karthik,Mumbai,Home,Mixer Grinder,3,3200,5,UPI,Cancelled,5
+ORD5218,2025-03-04,C1040,Ravi,Mumbai,Grocery,Dal 1kg,1,140,10,Credit Card,Delivered,2
+ORD5266,2025-08-24,C1048,Kiran, delhi ,Grocery,Cooking Oil 1L,1,180,0,Debit Card,Delivered,2
+ORD5084,2025-02-16,C1077,Vijay,Delhi,Clothing,T-Shirt,1,600,20,Net Banking,Returned,1
+ORD5379,2025-07-08,C1094,Anitha,Coimbatore,Grocery,Dal 1kg,2,140,10,Credit Card,Cancelled,5
+ORD5045,2025-05-20,C1009,Kavya,Chennai,Clothing,Jeans,1,1800,5,Net Banking,Delivered,3
+ORD5100,2025-03-15,C1012,Lakshmi,Bengaluru,Home,Mixer Grinder,2,3200,20,Credit Card,Delivered,5
+ORD5257,2025-09-27,C1097,Karthik,Mumbai,Grocery,Basmati Rice 5kg,2,650,15,Debit Card,Delivered,2
+ORD5423,2025-01-28,C1107,Ravi,Mumbai,Home,Bedsheet,1,900,0,Cash on Delivery,Delivered,4
+ORD5102,2025-11-17,C1109,Deepa,,Home,Water Bottle,3,350,10,Net Banking,Delivered,2
+ORD5043,2025-10-08,C1096,Gopal,Chennai,Home,Pressure Cooker,2,1600,0,Cash on Delivery,Delivered,4
+ORD5261,2025-04-22,C1050,Divya,Delhi,Clothing,T-Shirt,2,600,0,UPI,Delivered,4
+ORD5197,2025-01-18,C1003,Meena,Mumbai,Grocery,Dal 1kg,1,140,0,Credit Card,Pending,4
+ORD5270,2025-12-05,C1030,Deepa,Hyderabad,Clothing,Jeans,2,1800,0,Cash on Delivery,Delivered,4
+ORD5014,2025-06-11,C1016,Sneha,,Clothing,Kurta,4,1200,0,UPI,Delivered,2
+ORD5221,2025-07-21,C1063,Deepa,Coimbatore,Electronics,Smartphone,2,15000,10,,Delivered,4
+ORD5462,2025-04-13,C1111,Meena,Coimbatore,Grocery,Cooking Oil 1L,1,180,10,Net Banking,Delivered,3
+ORD5446,26/06/2025,C1022,Deepa,Hyderabad,Home,Water Bottle,1,350,5,UPI,Delivered,
+ORD5120,2025-07-18,C1012,Lakshmi,Bengaluru,Grocery,Cooking Oil 1L,2,180,5,Net Banking,Delivered,3
+ORD5503,18/07/2025,C1093,Meena,Madurai,Grocery,Basmati Rice 5kg,3,650,15,Net Banking,Delivered,5
+ORD5360,2025-12-04,C1031,Ravi,Mumbai,Clothing,T-Shirt,1,600,0,Net Banking,Returned,5
+ORD5108,2025-11-24,C1056,Harish,Coimbatore,Clothing,Saree,2,2500,20,Debit Card,Delivered,4
+ORD5070,2025-05-22,C1024,Divya,Mumbai,Grocery,Dal 1kg,3,140,15,Net Banking,Returned,4
+ORD5069,2025-04-09,C1032,Karthik,Chennai,Grocery,Basmati Rice 5kg,1,650,0,Net Banking,Pending,3
+ORD5293,2025-01-29,C1048,Kiran,Delhi,Home,Pressure Cooker,3,1600,0,Credit Card,Delivered,5
+ORD5173,2025-05-25,C1047,Pooja,Coimbatore,Home,Pressure Cooker,4,1600,10,Net Banking,Returned,4
+ORD5150,2025-07-23,C1106,Ravi,Hyderabad,Clothing,T-Shirt,4,600,20,UPI,Delivered,1
+ORD5237,2025-04-09,C1086,Rahul,Hyderabad,Clothing,Kurta,1,1200,5,Net Banking,Delivered,3
+ORD5585,2025-10-03,C1043,Priya,Hyderabad,Electronics,Power Bank,4,1500,15,Debit Card,Cancelled,5
+ORD5540,2025-06-11,C1088,Deepa,DELHI,Grocery,Tea Powder 500g,2,260,0,UPI,Delivered,3
+ORD5181,2025-11-24,C1006,Divya, chennai ,Grocery,Dal 1kg,4,140,15,Cash on Delivery,Delivered,2
+ORD5101,2025-11-16,C1100,Pooja,Delhi,Clothing,Saree,3,2500,10,UPI,Pending,4
+ORD5290,2025-02-24,C1002,Lakshmi,COIMBATORE,Home,Bedsheet,1,900,15,Credit Card,Delivered,3
+ORD5128,2025-09-27,C1006,Divya,Chennai,Grocery,Dal 1kg,1,140,20,UPI,Delivered,5
+ORD5431,2025-08-18,C1102,Nisha,HYDERABAD,Grocery,Basmati Rice 5kg,1,650,0,Credit Card,Pending,3
+ORD5521,2025-04-22,C1042,Karthik,Hyderabad,Clothing,Saree,4,2500,15,Net Banking,Delivered,5
+ORD5104,2025-01-24,C1088,Deepa,Delhi,Clothing,T-Shirt,1,600,0,Debit Card,Delivered,4
+ORD5289,07/01/2025,C1002,Lakshmi,Coimbatore,Electronics,Smart Watch,1,4500,15,Debit Card,Returned,4
+ORD5247,2025-06-02,C1112,Lakshmi,Chennai,Electronics,Smartphone,2,15000,15,UPI,Delivered,4
+ORD5448,2025-11-30,C1086,Rahul,Hyderabad,Grocery,Tea Powder 500g,2,260,15,UPI,Pending,1
+ORD5121,2025-09-08,C1113,Kiran,CHENNAI,Home,Mixer Grinder,2,0,10,Debit Card,Delivered,4
+ORD5077,2025-04-17,C1072,Harish,Hyderabad,Electronics,Smartphone,3,15000,0,Debit Card,Cancelled,2
+ORD5054,16/01/2025,C1028,Anitha,Delhi,Electronics,Smartphone,1,15000,0,UPI,Returned,3
+ORD5230,2025-01-09,C1090,Rahul,Chennai,Clothing,Kurta,1,1200,5,UPI,Delivered,4
+ORD5347,02/02/2025,C1093,Meena,Madurai,Home,Water Bottle,4,350,15,Cash on Delivery,Delivered,4
+ORD5111,2025-04-28,C1116,Lakshmi,Chennai,Home,Water Bottle,2,350,5,Credit Card,Cancelled,3
+ORD5008,2025-08-05,C1118,Divya,,Home,Water Bottle,3,350,20,Net Banking,Cancelled,
+ORD5026,2025-01-20,C1100,Pooja,Delhi,Electronics,Smart Watch,4,4500,10,Credit Card,Delivered,5
+ORD5288,2025-11-13,C1058,Lakshmi,Mumbai,Clothing,T-Shirt,3,600,20,Net Banking,Delivered,5
+ORD5326,2025-10-31,C1094,Anitha,Coimbatore,Grocery,Dal 1kg,2,140,10,UPI,Cancelled,3
+ORD5393,2025-01-12,C1074,Arun,Mumbai,Clothing,T-Shirt,1,600,0,Cash on Delivery,Pending,3
+ORD5340,2025-10-29,C1099,Karthik,Delhi,Grocery,Cooking Oil 1L,3,180,5,Net Banking,Cancelled,4
+ORD5208,2025-10-10,C1087,Ravi,COIMBATORE,Clothing,Jeans,3,1800,15,Credit Card,Pending,3
+ORD5461,2025-12-15,C1060,Vijay,Mumbai,Grocery,Basmati Rice 5kg,2,650,15,Debit Card,Delivered,1
+ORD5021,2025-02-08,C1071,Manoj,Hyderabad,Electronics,Smartphone,3,15000,,Net Banking,Delivered,
+ORD5530,2025-10-27,C1068,Priya,Delhi,Electronics,Smartphone,1,15000,20,UPI,Delivered,5
+ORD5010,2025-09-15,C1007,Karthik,Coimbatore,Electronics,Smart Watch,4,4500,15,Credit Card,Delivered,5
+ORD5433,2025-02-04,C1106,Ravi,,Clothing,Saree,1,2500,10,Net Banking,Delivered,5
+ORD5350,14/08/2025,C1002,Lakshmi,Coimbatore,Electronics,Earbuds,2,2000,0,Cash on Delivery,Delivered,3
+ORD5492,2025-07-26,C1064,Suresh,Hyderabad,Grocery,Dal 1kg,4,140,0,UPI,Delivered,5
+ORD5345,2025-07-12,C1073,Vijay,Hyderabad,Clothing,Kurta,2,1200,0,UPI,Delivered,5
+ORD5545,2025-10-10,C1098,Nisha,Delhi,Grocery,Basmati Rice 5kg,1,650,15,Net Banking,Delivered,3
+ORD5189,2025-01-22,C1025,Harish, hyderabad ,Electronics,Earbuds,1,2000,5,Net Banking,Delivered,5
+ORD5163,2025-07-10,C1078,Kiran,CHENNAI,Grocery,Tea Powder 500g,1,260,10,,Pending,4
+ORD5415,2025-12-21,C1033,Lakshmi,Delhi,Grocery,Cooking Oil 1L,1,180,5,,Pending,
+ORD5346,2025-08-21,C1095,Divya,Coimbatore,Clothing,Saree,2,2500,5,Net Banking,Delivered,2
+ORD5217,2025-03-08,C1093,Meena,Madurai,Clothing,Kurta,4,1200,5,Net Banking,Returned,2
+ORD5476,2025-05-25,C1053,Ravi,Hyderabad,Electronics,Smartphone,1,15000,0,Cash on Delivery,Delivered,3
+ORD5457,2025-12-03,C1064,Suresh,Hyderabad,Clothing,Jeans,2,1800,0,Debit Card,Delivered,5
+ORD5528,2025-10-13,C1006,Divya,Chennai,Grocery,Tea Powder 500g,1,260,,Credit Card,Delivered,
+ORD5097,2025-06-14,C1097,Karthik,Mumbai,Home,Pressure Cooker,4,1600,0,Credit Card,Returned,4
+ORD5245,2025-02-15,C1041,Vijay,Mumbai,Clothing,T-Shirt,3,600,15,Credit Card,Returned,1
+ORD5486,2025-11-10,C1023,Vijay,Delhi,Home,Water Bottle,1,350,20,Credit Card,Delivered,5
+ORD5015,09/03/2025,C1009,Kavya,Chennai,Grocery,Tea Powder 500g,1,260,0,Credit Card,Delivered,4
+ORD5243,2025-06-19,C1006,Divya,Chennai,Electronics,Smart Watch,3,4500,10,UPI,Cancelled,
+ORD5413,2025-03-14,C1081,Arun,Mumbai,Electronics,Smart Watch,1,4500,20,UPI,Delivered,4
+ORD5323,2025-01-12,C1038,Deepa,Coimbatore,Electronics,Smartphone,4,15000,5,UPI,Cancelled,3
+ORD5422,2025-05-02,C1033,Lakshmi,Delhi,Clothing,Saree,1,2500,0,Cash on Delivery,Returned,5
+ORD5481,2025-01-21,C1006,Divya,Chennai,Electronics,Earbuds,4,2000,5,Debit Card,Pending,4
+ORD5507,2025-09-15,C1117,Karthik,Mumbai,Grocery,Cooking Oil 1L,2,180,20,,Cancelled,2
+ORD5164,2025-02-03,C1086,Rahul,Hyderabad,Electronics,Power Bank,1,1500,0,Net Banking,Cancelled,4
+ORD5453,2025-05-14,C1081,Arun,Mumbai,Clothing,Saree,3,2500,20,Debit Card,Delivered,3
+ORD5391,2025-02-18,C1109,Deepa,Bengaluru,Home,Bedsheet,2,900,0,Credit Card,Delivered,1
+ORD5287,2025-02-04,C1052,Vijay,Chennai,Grocery,Cooking Oil 1L,3,180,0,UPI,Delivered,5
+ORD5250,2025-03-31,C1101,Suresh,Coimbatore,Clothing,Jeans,2,1800,20,Cash on Delivery,Pending,4
+ORD5265,2025-01-12,C1093,Meena,Madurai,Grocery,Basmati Rice 5kg,1,650,10,Net Banking,Delivered,5
+ORD5377,2025-08-27,C1005,Gopal,Bengaluru,Home,Mixer Grinder,4,3200,5,Debit Card,Delivered,2
+ORD5294,17/10/2025,C1108,Anitha,BENGALURU,Home,Water Bottle,4,350,0,Net Banking,Delivered,3
+ORD5388,2025-06-07,C1045,Harish,Bengaluru,Grocery,Dal 1kg,2,140,5,UPI,Delivered,
+ORD5295,2025-01-24,C1027,Karthik,Hyderabad,Home,Water Bottle,1,350,20,Debit Card,Returned,1
+ORD5233,2025-10-21,C1018,Ravi,DELHI,Grocery,Basmati Rice 5kg,3,650,,Credit Card,Delivered,5
+ORD5552,2025-10-24,C1081,Arun,,Clothing,Saree,2,2500,15,Credit Card,Delivered,4
+ORD5547,2025-07-06,C1065,Nisha, chennai ,Electronics,Smart Watch,2,4500,0,Credit Card,Pending,3
+ORD5305,2025-05-30,C1110,Rahul,Bengaluru,Home,Mixer Grinder,2,3200,10,UPI,Cancelled,5
+ORD5541,2025-05-22,C1100,Pooja,Delhi,Grocery,Dal 1kg,4,140,5,Credit Card,Cancelled,4
+ORD5512,2025-05-02,C1013,Gopal,Madurai,Grocery,Dal 1kg,2,140,20,Debit Card,Cancelled,1
+ORD5172,2025-10-01,C1096,Gopal,Chennai,Home,Bedsheet,1,900,5,Cash on Delivery,Pending,3
+ORD5158,2025-10-30,C1056,Harish,Coimbatore,Clothing,Saree,1,2500,5,Net Banking,Delivered,4
+ORD5384,2025-11-23,C1074,Arun,Mumbai,Electronics,Earbuds,4,2000,10,UPI,Returned,1
+ORD5308,2025-05-09,C1061,Gopal,Bengaluru,Electronics,Power Bank,1,1500,20,Cash on Delivery,Returned,3
+ORD5405,2025-09-09,C1069,Sneha,HYDERABAD,Clothing,Jeans,1,1800,0,UPI,Delivered,3
+ORD5497,2025-02-19,C1091,Kavya,MADURAI,Home,Mixer Grinder,4,3200,20,Credit Card,Delivered,4
+ORD5524,2025-09-07,C1003,Meena,Mumbai,Clothing,Kurta,1,1200,5,Credit Card,Delivered,5
+ORD5465,2025-11-11,C1062,Gopal,Bengaluru,Electronics,Earbuds,2,2000,20,Cash on Delivery,Delivered,4
+ORD5344,2025-05-07,C1031,Ravi,Mumbai,Grocery,Tea Powder 500g,4,260,20,Cash on Delivery,Delivered,3
+ORD5358,2025-04-22,C1117,Karthik,Mumbai,Home,Pressure Cooker,1,1600,,Credit Card,Pending,2
+ORD5157,2025-11-18,C1059,Pooja,Hyderabad,Home,Water Bottle,1,350,0,Cash on Delivery,Delivered,5
+ORD5180,2025-02-26,C1027,Karthik,Hyderabad,Grocery,Dal 1kg,4,140,5,Credit Card,Delivered,2
+ORD5153,2025-05-05,C1011,Pooja, bengaluru ,Home,Mixer Grinder,2,3200,15,Cash on Delivery,Returned,2
+ORD5152,2025-01-11,C1037,Vijay,Bengaluru,Electronics,Smart Watch,1,4500,,Net Banking,Delivered,4
+ORD5079,2025-01-17,C1088,Deepa,Delhi,Home,Water Bottle,1,350,5,Debit Card,Cancelled,5
+ORD5546,2025-10-29,C1046,Vijay,MUMBAI,Home,Bedsheet,3,900,5,Credit Card,Delivered,5
+ORD5141,2025-06-29,C1034,Anitha,Chennai,Clothing,Saree,1,2500,0,Credit Card,Returned,4
+ORD5494,2025-01-19,C1013,Gopal,Madurai,Home,Pressure Cooker,2,1600,15,UPI,Pending,2
+ORD5472,2025-12-31,C1021,Meena,Madurai,Electronics,Power Bank,3,1500,0,Cash on Delivery,Cancelled,4
+ORD5093,2025-08-01,C1063,Deepa,,Clothing,Saree,4,2500,10,Cash on Delivery,Delivered,5
+ORD5539,2025-04-10,C1012,Lakshmi,Bengaluru,Clothing,T-Shirt,1,600,10,Cash on Delivery,Delivered,4
+ORD5579,03/12/2025,C1056,Harish,Coimbatore,Electronics,Earbuds,4,2000,15,Debit Card,Delivered,1
+ORD5320,2025-09-05,C1019,Kiran,Chennai,Clothing,T-Shirt,1,600,5,Cash on Delivery,Delivered,2
+ORD5132,2025-11-02,C1035,Lakshmi, delhi ,Clothing,Kurta,2,1200,5,Cash on Delivery,Returned,4
+ORD5198,2025-11-06,C1046,Vijay,Mumbai,Home,Mixer Grinder,1,3200,20,Cash on Delivery,Delivered,4
+ORD5412,2025-10-18,C1093,Meena,Madurai,Electronics,Smart Watch,1,4500,0,Net Banking,Delivered,3
+ORD5583,2025-11-07,C1044,Lakshmi,Coimbatore,Clothing,Jeans,1,1800,10,Cash on Delivery,Returned,1
+ORD5105,2025-09-29,C1055,Nisha,,Grocery,Cooking Oil 1L,2,180,15,Credit Card,Delivered,3
+ORD5586,2025-06-23,C1048,Kiran,Delhi,Home,Bedsheet,4,900,10,Cash on Delivery,Returned,1
+ORD5517,2025-06-19,C1020,Karthik,Bengaluru,Clothing,T-Shirt,2,600,20,Credit Card,Delivered,3
+ORD5594,2025-10-22,C1047,Pooja,Coimbatore,Clothing,Kurta,4,1200,5,Cash on Delivery,Delivered,5
+ORD5200,2025-04-06,C1031,Ravi,Mumbai,Electronics,Smartphone,2,15000,15,Cash on Delivery,Returned,2
+ORD5357,2025-08-14,C1008,Lakshmi,Hyderabad,Electronics,Earbuds,1,2000,20,Credit Card,Cancelled,3
+ORD5558,2025-11-19,C1016,Sneha,Madurai,Grocery,Cooking Oil 1L,2,180,0,Net Banking,Delivered,1
+ORD5442,2025-02-03,C1105,Kavya,Bengaluru,Electronics,Earbuds,1,2000,20,Net Banking,Delivered,3
+ORD5514,2025-11-14,C1001,Vijay,Coimbatore,Clothing,Jeans,4,1800,10,Credit Card,Cancelled,4
+ORD5575,2025-06-23,C1012,Lakshmi,Bengaluru,Grocery,Dal 1kg,4,140,15,Net Banking,Cancelled,
+ORD5134,2025-06-10,C1051,Kiran,Bengaluru,Home,Mixer Grinder,2,3200,5,Debit Card,Delivered,3
+ORD5119,2025-03-13,C1083,Priya,Hyderabad,Home,Mixer Grinder,1,3200,0,Debit Card,Delivered,2
+ORD5303,2025-03-09,C1046,Vijay,,Clothing,T-Shirt,1,600,0,,Delivered,5
+ORD5135,16/02/2025,C1087,Ravi, coimbatore ,Home,Mixer Grinder,4,3200,0,UPI,Delivered,2
+ORD5439,2025-06-09,C1002,Lakshmi,Coimbatore,Clothing,Saree,1,2500,10,UPI,Pending,3
+ORD5450,2025-07-12,C1091,Kavya, madurai ,Clothing,Kurta,4,1200,5,Cash on Delivery,Delivered,3
+ORD5536,2025-04-05,C1115,Lakshmi, hyderabad ,Grocery,Cooking Oil 1L,1,180,15,Debit Card,Delivered,2
+ORD5425,2025-06-07,C1010,Pooja,Coimbatore,Home,Mixer Grinder,4,3200,10,Cash on Delivery,Delivered,4
+ORD5006,2025-02-17,C1012,Lakshmi,Bengaluru,Electronics,Smartphone,4,15000,0,Credit Card,Delivered,
+ORD5279,2025-07-23,C1117,Karthik,Mumbai,Grocery,Cooking Oil 1L,1,180,15,Debit Card,Pending,4
+ORD5417,07/10/2025,C1063,Deepa,,Home,Water Bottle,2,350,0,Cash on Delivery,Pending,3
+ORD5283,2025-06-18,C1037,Vijay,Bengaluru,Grocery,Cooking Oil 1L,1,180,10,Net Banking,Pending,3
+ORD5316,2025-07-04,C1068,Priya,DELHI,Home,Mixer Grinder,3,3200,15,Net Banking,Cancelled,2
+ORD5196,2025-12-10,C1035,Lakshmi,Delhi,Electronics,Smartphone,3,15000,10,Debit Card,Returned,3
+ORD5116,2025-01-08,C1046,Vijay,Mumbai,Electronics,Smart Watch,1,4500,15,UPI,Delivered,4
+ORD5509,2025-09-25,C1036,Meena,Bengaluru,Home,Mixer Grinder,1,3200,0,Cash on Delivery,Delivered,1
+ORD5076,2025-08-19,C1077,Vijay,Delhi,Grocery,Dal 1kg,2,140,5,Net Banking,Delivered,4
+ORD5484,2025-07-17,C1051,Kiran,BENGALURU,Home,Water Bottle,3,350,10,Cash on Delivery,Cancelled,
+ORD5454,2025-11-04,C1066,Divya,Delhi,Grocery,Basmati Rice 5kg,2,650,20,Debit Card,Cancelled,3
+ORD5532,2025-03-22,C1105,Kavya,BENGALURU,Electronics,Smart Watch,2,4500,0,Credit Card,Cancelled,4
+ORD5334,2025-01-05,C1079,Anitha,Bengaluru,Electronics,Power Bank,2,1500,0,Credit Card,Pending,4
+ORD5209,2025-09-23,C1055,Nisha,Bengaluru,Electronics,Smartphone,1,15000,5,Credit Card,Delivered,4
+ORD5207,2025-03-06,C1098,Nisha,Delhi,Home,Mixer Grinder,1,3200,20,UPI,Delivered,5
+ORD5074,03/02/2025,C1032,Karthik,Chennai,Home,Mixer Grinder,2,3200,10,,Returned,1
+ORD5009,2025-04-22,C1019,Kiran,Chennai,Grocery,Tea Powder 500g,1,260,15,Net Banking,Delivered,4
+ORD5223,2025-03-10,C1001,Vijay,Coimbatore,Electronics,Smart Watch,1,4500,20,Debit Card,Pending,4
+ORD5046,22/12/2025,C1019,Kiran,Chennai,Grocery,Dal 1kg,1,140,,Credit Card,Delivered,4
+ORD5263,2025-07-11,C1098,Nisha,Delhi,Grocery,Dal 1kg,2,140,10,Cash on Delivery,Delivered,2
+ORD5028,29/06/2025,C1035,Lakshmi,Delhi,Electronics,Power Bank,3,1500,15,Cash on Delivery,Cancelled,5
+ORD5004,2025-02-25,C1007,Karthik,Coimbatore,Home,Water Bottle,1,350,0,Credit Card,Returned,5
+ORD5324,2025-10-10,C1119,Karthik,Chennai,Grocery,Cooking Oil 1L,1,180,5,,Delivered,5
+ORD5017,2025-05-16,C1038,Deepa, coimbatore ,Electronics,Earbuds,1,2000,0,Net Banking,Delivered,4
+ORD5240,2025-05-29,C1104,Rahul,Delhi,Clothing,Jeans,1,1800,5,UPI,Delivered,5
+ORD5042,2025-08-22,C1071,Manoj,HYDERABAD,Grocery,Basmati Rice 5kg,1,650,10,Net Banking,Returned,4
+ORD5177,2025-05-01,C1006,Divya, chennai ,Home,Water Bottle,2,350,0,Debit Card,Delivered,1
+ORD5273,2025-06-03,C1060,Vijay,Mumbai,Grocery,Cooking Oil 1L,4,180,20,Credit Card,Pending,5
+ORD5156,30/03/2025,C1018,Ravi, delhi ,Clothing,Jeans,2,1800,0,UPI,Delivered,5
+ORD5479,2025-10-21,C1085,Anitha,Delhi,Electronics,Smartphone,3,15000,10,Credit Card,Delivered,5
+ORD5080,2025-11-17,C1009,Kavya,Chennai,Grocery,Tea Powder 500g,2,260,20,Credit Card,Delivered,2
+ORD5403,2025-03-30,C1073,Vijay,Hyderabad,Home,Water Bottle,1,350,0,Net Banking,Delivered,4
+ORD5165,2025-06-20,C1036,Meena,Bengaluru,Clothing,Jeans,1,1800,15,Credit Card,Delivered,4
+ORD5060,2025-08-04,C1082,Vijay,HYDERABAD,Clothing,T-Shirt,4,600,10,UPI,Delivered,4
+ORD5426,2025-07-09,C1011,Pooja,Bengaluru,Home,Bedsheet,2,900,5,Credit Card,Delivered,1
+ORD5394,2025-01-22,C1011,Pooja,Bengaluru,Clothing,T-Shirt,2,600,0,Credit Card,Returned,4
+ORD5483,2025-02-17,C1114,Gopal,Hyderabad,Home,Water Bottle,1,350,5,Credit Card,Delivered,4
+ORD5526,2025-04-16,C1110,Rahul,Bengaluru,Home,Mixer Grinder,2,3200,20,Cash on Delivery,Cancelled,2
+ORD5184,2025-02-04,C1085,Anitha,Delhi,Electronics,Power Bank,2,1500,15,Net Banking,Pending,5
+ORD5321,2025-06-09,C1106,Ravi,Hyderabad,Grocery,Tea Powder 500g,1,260,10,Credit Card,Returned,5
+ORD5178,2025-03-16,C1040,Ravi,Mumbai,Electronics,Power Bank,1,1500,0,Debit Card,Pending,5
+ORD5543,2025-03-13,C1022,Deepa,Hyderabad,Electronics,Power Bank,2,1500,0,Debit Card,Cancelled,2
+ORD5094,2025-04-08,C1070,Karthik,Bengaluru,Grocery,Dal 1kg,2,140,15,Credit Card,Pending,2
+ORD5169,2025-03-21,C1024,Divya,Mumbai,Grocery,Cooking Oil 1L,1,180,5,UPI,Returned,5
+ORD5202,2025-03-30,C1017,Vijay,COIMBATORE,Electronics,Smart Watch,3,4500,10,UPI,Pending,4
+ORD5083,2025-02-11,C1034,Anitha,Chennai,Home,Pressure Cooker,2,1600,0,Cash on Delivery,Cancelled,4
+ORD5470,2025-06-25,C1043,Priya,Hyderabad,Home,Bedsheet,2,900,5,Credit Card,Delivered,4
+ORD5159,2025-01-30,C1059,Pooja,Hyderabad,Home,Mixer Grinder,1,3200,5,UPI,Cancelled,2
+ORD5086,2025-02-16,C1074,Arun,Mumbai,Home,Pressure Cooker,2,1600,5,Cash on Delivery,Delivered,
+ORD5192,2025-04-06,C1114,Gopal,Hyderabad,Home,Water Bottle,2,350,20,Cash on Delivery,Delivered,5
+ORD5154,2025-04-24,C1050,Divya,Delhi,Clothing,Saree,1,2500,0,UPI,Returned,2
+ORD5155,2025-06-29,C1067,Meena,Coimbatore,Grocery,Tea Powder 500g,3,260,20,Credit Card,Delivered,2
+ORD5131,11/02/2025,C1062,Gopal,Bengaluru,Home,Mixer Grinder,1,3200,15,Credit Card,Delivered,3
+ORD5406,2025-06-19,C1002,Lakshmi,Coimbatore,Home,Mixer Grinder,2,3200,0,Credit Card,Delivered,3
+ORD5398,2025-04-13,C1049,Divya, coimbatore ,Grocery,Dal 1kg,3,140,15,Credit Card,Cancelled,5
+ORD5373,2025-04-27,C1032,Karthik,Chennai,Electronics,Smartphone,3,15000,15,UPI,Delivered,1
+ORD5596,2025-07-21,C1061,Gopal,Bengaluru,Electronics,Power Bank,4,1500,,Credit Card,Delivered,2
+ORD5445,2025-12-15,C1064,Suresh,Hyderabad,Home,Mixer Grinder,1,3200,0,Debit Card,Delivered,5
+ORD5011,01/11/2025,C1010,Pooja,,Grocery,Basmati Rice 5kg,1,650,20,Credit Card,Delivered,
+ORD5087,2025-06-18,C1085,Anitha,Delhi,Electronics,Earbuds,2,2000,20,Cash on Delivery,Delivered,4
+ORD5036,2025-08-15,C1055,Nisha,Bengaluru,Clothing,Kurta,2,1200,20,Credit Card,Returned,5
+ORD5581,2025-07-24,C1020,Karthik,Bengaluru,Electronics,Power Bank,1,1500,20,,Delivered,3
+ORD5214,2025-09-12,C1098,Nisha,Delhi,Home,Mixer Grinder,3,3200,15,Debit Card,Cancelled,4
+ORD5382,2025-08-03,C1013,Gopal,Madurai,Grocery,Cooking Oil 1L,2,180,0,Credit Card,Cancelled,4
+ORD5029,2025-05-14,C1042,Karthik,Hyderabad,Electronics,Smartphone,1,15000,15,Debit Card,Delivered,2
+ORD5595,2025-10-23,C1035,Lakshmi,Delhi,Home,Bedsheet,1,900,0,Net Banking,Pending,4
+ORD5312,2025-07-12,C1073,Vijay, hyderabad ,Grocery,Tea Powder 500g,1,260,10,Debit Card,Delivered,3
+ORD5304,2025-01-14,C1071,Manoj,Hyderabad,Home,Mixer Grinder,1,3200,5,Net Banking,Delivered,
+ORD5118,2025-11-28,C1079,Anitha,Bengaluru,Clothing,Jeans,1,1800,20,Cash on Delivery,Cancelled,4
+ORD5108,2025-11-24,C1056,Harish,Coimbatore,Clothing,Saree,2,2500,20,Debit Card,Delivered,4
+ORD5199,2025-09-29,C1056,Harish,Coimbatore,Electronics,Earbuds,1,2000,10,,Cancelled,
+ORD5259,2025-09-19,C1091,Kavya,Madurai,Home,Mixer Grinder,2,3200,0,Cash on Delivery,Delivered,5
+ORD5282,2025-05-14,C1094,Anitha,Coimbatore,Grocery,Basmati Rice 5kg,2,650,,Net Banking,Cancelled,4
+ORD5053,2025-02-11,C1035,Lakshmi,Delhi,Home,Water Bottle,2,350,0,Net Banking,Delivered,4
+ORD5490,2025-11-26,C1114,Gopal,Hyderabad,Electronics,Smartphone,1,15000,15,Cash on Delivery,Pending,5
+ORD5354,2025-01-05,C1066,Divya,,Home,Mixer Grinder,3,3200,5,UPI,Pending,4
+ORD5030,2025-06-10,C1076,Pooja,Delhi,Home,Water Bottle,2,350,15,,Delivered,4
+ORD5336,2025-05-30,C1010,Pooja,COIMBATORE,Electronics,Earbuds,1,2000,5,Credit Card,Returned,4
+ORD5436,2025-05-27,C1118,Divya,Coimbatore,Electronics,Smartphone,4,15000,15,Debit Card,Delivered,4
+ORD5012,2025-11-14,C1113,Kiran,Chennai,Grocery,Basmati Rice 5kg,1,650,10,Net Banking,Returned,5
+ORD5143,2025-07-09,C1058,Lakshmi, mumbai ,Clothing,Jeans,1,1800,20,Debit Card,Pending,2
+ORD5395,2025-01-16,C1105,Kavya,Bengaluru,Home,Pressure Cooker,2,1600,20,Cash on Delivery,Delivered,4
+ORD5538,2025-10-25,C1032,Karthik,Chennai,Electronics,Earbuds,2,2000,,Debit Card,Delivered,3
+ORD5542,2025-08-17,C1112,Lakshmi,Chennai,Home,Pressure Cooker,1,1600,5,Cash on Delivery,Returned,2
+ORD5286,2025-02-08,C1082,Vijay,Hyderabad,Electronics,Smartphone,4,15000,20,UPI,Pending,1
+ORD5510,2025-05-17,C1085,Anitha,DELHI,Electronics,Earbuds,4,2000,0,,Cancelled,4
+ORD5068,09/10/2025,C1060,Vijay, mumbai ,Clothing,Kurta,1,1200,5,Cash on Delivery,Delivered,4
+ORD5516,2025-01-21,C1094,Anitha,,Electronics,Smart Watch,2,4500,5,Net Banking,Delivered,3
+ORD5339,2025-05-15,C1038,Deepa,Coimbatore,Electronics,Smart Watch,1,4500,0,Cash on Delivery,Pending,2
+ORD5325,2025-04-06,C1029,Kavya,Delhi,Home,Bedsheet,3,900,20,Cash on Delivery,Delivered,1
+ORD5452,2025-12-17,C1071,Manoj,HYDERABAD,Clothing,Saree,1,2500,10,UPI,Delivered,4
+ORD5376,2025-09-15,C1073,Vijay,Hyderabad,Clothing,T-Shirt,3,600,0,Credit Card,Delivered,5
+ORD5330,11/11/2025,C1079,Anitha,BENGALURU,Grocery,Tea Powder 500g,2,260,0,Credit Card,Delivered,2
+ORD5299,2025-01-16,C1043,Priya,Hyderabad,Home,Water Bottle,3,350,5,Cash on Delivery,Delivered,3
+ORD5315,2025-07-13,C1084,Meena,Delhi,Grocery,Dal 1kg,1,140,10,Net Banking,Delivered,4
+ORD5249,2025-11-28,C1042,Karthik,,Grocery,Dal 1kg,1,140,20,Credit Card,Delivered,4
+ORD5474,2025-03-05,C1053,Ravi,HYDERABAD,Home,Pressure Cooker,2,1600,5,Cash on Delivery,Cancelled,
+ORD5264,2025-03-02,C1087,Ravi,Coimbatore,Grocery,Tea Powder 500g,1,260,15,Cash on Delivery,Returned,3
+ORD5434,2025-01-07,C1041,Vijay,MUMBAI,Clothing,Kurta,4,1200,20,Net Banking,Returned,5
+ORD5387,2025-08-19,C1019,Kiran,Chennai,Electronics,Earbuds,2,2000,5,Cash on Delivery,Delivered,5
+ORD5306,2025-12-17,C1115,Lakshmi,Hyderabad,Grocery,Cooking Oil 1L,2,180,0,Credit Card,Delivered,4
+ORD5342,2025-12-27,C1035,Lakshmi,Delhi,Grocery,Tea Powder 500g,1,260,5,Net Banking,Delivered,5
+ORD5020,2025-03-24,C1098,Nisha,Delhi,Grocery,Tea Powder 500g,3,260,10,Net Banking,Cancelled,4
+ORD5482,2025-01-24,C1054,Kiran,Coimbatore,Electronics,Smartphone,1,15000,0,Credit Card,Delivered,4
+ORD5122,2025-05-01,C1027,Karthik,Hyderabad,Home,Pressure Cooker,4,1600,5,UPI,Cancelled,4
+ORD5496,2025-06-19,C1104,Rahul,Delhi,Grocery,Dal 1kg,2,140,15,,Delivered,4
+ORD5500,2025-06-23,C1027,Karthik,Hyderabad,Home,Bedsheet,1,900,10,UPI,Cancelled,2
+ORD5137,2025-07-01,C1085,Anitha, delhi ,Electronics,Smart Watch,4,4500,20,Cash on Delivery,Pending,1
+ORD5488,2025-09-23,C1098,Nisha,Delhi,Grocery,Tea Powder 500g,2,260,20,Net Banking,Delivered,4
+ORD5203,2025-10-09,C1085,Anitha,Delhi,Clothing,T-Shirt,2,600,5,Debit Card,Pending,3
+ORD5085,2025-03-31,C1097,Karthik,Mumbai,Clothing,T-Shirt,2,600,15,Cash on Delivery,Delivered,3
+ORD5593,2025-11-11,C1015,Priya,Mumbai,Electronics,Smart Watch,1,4500,15,,Pending,5
+ORD5114,2025-03-26,C1016,Sneha,Madurai,Clothing,Saree,1,2500,10,Debit Card,Cancelled,4
+ORD5185,2025-08-29,C1070,Karthik,Bengaluru,Electronics,Smart Watch,1,4500,20,Cash on Delivery,Delivered,
+ORD5044,2025-09-24,C1096,Gopal,Chennai,Grocery,Tea Powder 500g,2,260,20,Credit Card,Delivered,5
+ORD5506,2025-04-13,C1110,Rahul,Bengaluru,Clothing,Jeans,1,1800,15,Debit Card,Cancelled,4
+ORD5495,2025-12-02,C1101,Suresh,Coimbatore,Clothing,Jeans,3,1800,10,Debit Card,Delivered,1
+ORD5534,2025-01-22,C1111,Meena,Coimbatore,Grocery,Basmati Rice 5kg,1,650,15,Net Banking,Delivered,5
+ORD5062,12/08/2025,C1078,Kiran,Chennai,Home,Pressure Cooker,4,1600,20,Net Banking,Delivered,4
+ORD5088,2025-02-15,C1104,Rahul,Delhi,Electronics,Smart Watch,1,4500,5,Debit Card,Delivered,4
+ORD5567,2025-06-29,C1102,Nisha,Hyderabad,Home,Pressure Cooker,2,1600,20,Net Banking,Delivered,4
+ORD5227,2025-01-24,C1025,Harish, hyderabad ,Home,Mixer Grinder,1,3200,0,Debit Card,Pending,5
+ORD5471,09/03/2025,C1002,Lakshmi,Coimbatore,Grocery,Cooking Oil 1L,1,180,20,UPI,Returned,5
+ORD5292,03/06/2025,C1058,Lakshmi,Mumbai,Grocery,Cooking Oil 1L,3,180,0,UPI,Delivered,
+ORD5213,2025-01-24,C1105,Kavya,Bengaluru,Electronics,Smartphone,3,15000,15,Debit Card,Cancelled,3
+ORD5112,2025-11-18,C1079,Anitha,BENGALURU,Clothing,Jeans,1,1800,20,UPI,Delivered,5
+ORD5034,2025-04-09,C1089,Priya,Hyderabad,Clothing,Jeans,2,1800,20,Cash on Delivery,Cancelled,3
+ORD5174,2025-05-09,C1020,Karthik,,Grocery,Cooking Oil 1L,1,180,20,Cash on Delivery,Pending,4
+ORD5001,2025-09-21,C1110,Rahul,BENGALURU,Clothing,T-Shirt,1,600,5,Cash on Delivery,Delivered,5
+ORD5427,2025-05-15,C1033,Lakshmi,Delhi,Home,Pressure Cooker,1,1600,5,Net Banking,Delivered,3
+ORD5136,2025-10-12,C1095,Divya,COIMBATORE,Clothing,Jeans,1,1800,15,Net Banking,Returned,4
+ORD5466,2025-01-20,C1061,Gopal,Bengaluru,Home,Mixer Grinder,2,3200,0,Debit Card,Delivered,4
+ORD5112,2025-11-18,C1079,Anitha,BENGALURU,Clothing,Jeans,1,1800,20,UPI,Delivered,5
+ORD5359,2025-08-08,C1075,Meena,MUMBAI,Home,Water Bottle,1,350,0,Credit Card,Delivered,2
+ORD5025,2025-12-09,C1022,Deepa,Hyderabad,Clothing,Kurta,4,1200,20,Credit Card,Delivered,3
+ORD5597,2025-12-19,C1089,Priya,Hyderabad,Home,Water Bottle,1,350,0,Credit Card,Delivered,2
+ORD5226,2025-07-11,C1016,Sneha,Madurai,Electronics,Smart Watch,4,4500,5,Net Banking,Delivered,3
+ORD5327,2025-10-23,C1026,Meena,Bengaluru,Clothing,T-Shirt,1,600,,Credit Card,Delivered,4
+ORD5561,2025-11-04,C1021,Meena,Madurai,Grocery,Dal 1kg,1,140,15,Credit Card,Returned,5
+ORD5191,2025-03-05,C1110,Rahul,Bengaluru,Clothing,Saree,4,2500,5,Cash on Delivery,Delivered,5
+ORD5522,2025-12-09,C1105,Kavya,Bengaluru,Electronics,Smartphone,1,15000,10,Credit Card,Cancelled,3
+ORD5244,2025-12-01,C1000,Meena,Chennai,Grocery,Dal 1kg,2,140,10,Credit Card,Pending,4
+ORD5267,2025-05-04,C1004,Pooja,Chennai,Home,Mixer Grinder,1,3200,0,UPI,Returned,1
+ORD5530,2025-10-27,C1068,Priya,Delhi,Electronics,Smartphone,1,15000,20,UPI,Delivered,5
+ORD5049,23/04/2025,C1068,Priya,Delhi,Grocery,Dal 1kg,1,140,,Cash on Delivery,Delivered,4
+ORD5205,2025-07-04,C1030,Deepa, hyderabad ,Home,Mixer Grinder,2,3200,15,Debit Card,Delivered,5
+ORD5103,16/02/2025,C1030,Deepa,Hyderabad,Clothing,Jeans,2,1800,,UPI,Delivered,3
+ORD5067,2025-05-31,C1057,Vijay,COIMBATORE,Electronics,Smartphone,1,15000,10,Credit Card,Delivered,4
+ORD5023,2025-12-16,C1115,Lakshmi,Hyderabad,Clothing,Jeans,1,1800,20,UPI,Delivered,5
+ORD5590,10/06/2025,C1119,Karthik,Chennai,Grocery,Dal 1kg,1,140,0,Net Banking,Delivered,3
+ORD5464,2025-04-18,C1000,Meena,Chennai,Home,Water Bottle,4,350,0,Net Banking,Pending,3
+ORD5511,2025-04-15,C1018,Ravi, delhi ,Electronics,Power Bank,4,1500,15,UPI,Delivered,5
+ORD5333,2025-05-28,C1071,Manoj,Hyderabad,Grocery,Dal 1kg,1,140,0,Debit Card,Pending,5
+ORD5351,21/05/2025,C1112,Lakshmi,Chennai,Clothing,Jeans,1,1800,20,Debit Card,Delivered,2
+ORD5254,2025-07-27,C1059,Pooja,Hyderabad,Clothing,Jeans,3,1800,15,Debit Card,Cancelled,2
+ORD5468,2025-07-16,C1039,Deepa,Madurai,Grocery,Basmati Rice 5kg,2,650,15,Debit Card,Delivered,2
+ORD5470,2025-06-25,C1043,Priya,Hyderabad,Home,Bedsheet,2,900,5,Credit Card,Delivered,4
+ORD5162,2025-05-07,C1064,Suresh,Hyderabad,Grocery,Basmati Rice 5kg,3,650,10,Cash on Delivery,Returned,5
+ORD5375,2025-06-14,C1070,Karthik,Bengaluru,Home,Bedsheet,1,900,10,Debit Card,Delivered,2
+ORD5065,2025-10-12,C1043,Priya,Hyderabad,Clothing,Saree,1,2500,15,Credit Card,Delivered,3
+ORD5421,2025-04-16,C1006,Divya,Chennai,Electronics,Power Bank,1,1500,10,Net Banking,Cancelled,5
+ORD5204,2025-09-18,C1091,Kavya,Madurai,Grocery,Tea Powder 500g,1,260,0,,Pending,3
+ORD5527,2025-08-24,C1095,Divya,Coimbatore,Grocery,Basmati Rice 5kg,3,650,5,UPI,Delivered,2
+ORD5570,2025-12-02,C1015,Priya,Mumbai,Electronics,Smart Watch,1,4500,20,Debit Card,Delivered,4
+ORD5560,2025-04-21,C1112,Lakshmi,Chennai,Clothing,T-Shirt,2,600,15,Cash on Delivery,Pending,5
+ORD5225,2025-09-16,C1036,Meena,Bengaluru,Electronics,Smart Watch,2,4500,15,Debit Card,Pending,2
+ORD5210,2025-09-23,C1119,Karthik,Chennai,Grocery,Tea Powder 500g,1,260,0,Debit Card,Delivered,5
+ORD5566,2025-07-09,C1114,Gopal,Hyderabad,Home,Pressure Cooker,4,1600,0,Net Banking,Delivered,3
+ORD5498,2025-12-26,C1045,Harish,Bengaluru,Clothing,Saree,1,2500,,Credit Card,Delivered,
+ORD5307,2025-02-02,C1034,Anitha,Chennai,Home,Bedsheet,1,900,10,Debit Card,Delivered,4
+ORD5170,13/11/2025,C1106,Ravi,Hyderabad,Electronics,Power Bank,1,1500,15,Cash on Delivery,Delivered,3
+ORD5367,2025-10-28,C1068,Priya,Delhi,Clothing,Kurta,3,1200,20,UPI,Delivered,4
+ORD5355,2025-02-06,C1088,Deepa,Delhi,Grocery,Dal 1kg,1,140,10,UPI,Cancelled,2
+ORD5577,2025-04-24,C1011,Pooja,Bengaluru,Electronics,Power Bank,1,1500,0,Net Banking,Delivered,4
+ORD5414,2025-12-29,C1040,Ravi,Mumbai,Grocery,Basmati Rice 5kg,3,650,20,,Delivered,1
+ORD5231,2025-05-16,C1101,Suresh,,Electronics,Smart Watch,3,4500,15,Net Banking,Delivered,1
+ORD5047,2025-08-01,C1052,Vijay,Chennai,Clothing,Kurta,1,1200,0,Cash on Delivery,Delivered,1
+ORD5501,2025-12-04,C1098,Nisha,Delhi,Home,Pressure Cooker,2,1600,15,Credit Card,Delivered,1
+ORD5241,2025-04-20,C1083,Priya,Hyderabad,Clothing,Kurta,1,1200,15,Debit Card,Returned,4
+ORD5400,2025-04-03,C1041,Vijay,Mumbai,Home,Water Bottle,1,350,5,Net Banking,Delivered,1
+ORD5248,16/09/2025,C1058,Lakshmi,Mumbai,Home,Bedsheet,2,900,5,Credit Card,Pending,2
+ORD5456,2025-04-24,C1074,Arun,MUMBAI,Grocery,Tea Powder 500g,3,260,15,Cash on Delivery,Cancelled,4
+ORD5206,2025-06-08,C1016,Sneha, madurai ,Electronics,Smartphone,2,15000,20,Cash on Delivery,Returned,4
+ORD5372,2025-01-29,C1063,Deepa,Coimbatore,Home,Water Bottle,2,350,15,Credit Card,Delivered,3
+ORD5109,2025-02-24,C1025,Harish,Hyderabad,Home,Pressure Cooker,1,1600,10,Net Banking,Delivered,4
+ORD5220,2025-03-23,C1119,Karthik,Chennai,Clothing,Jeans,2,1800,15,Cash on Delivery,Delivered,4
+ORD5291,2025-05-17,C1079,Anitha,Bengaluru,Clothing,Saree,4,2500,10,UPI,Delivered,4
+ORD5002,2025-08-31,C1016,Sneha,Madurai,Home,Bedsheet,4,900,10,Credit Card,Delivered,2
+ORD5329,2025-10-28,C1076,Pooja,Delhi,Home,Pressure Cooker,1,1600,5,Debit Card,Pending,5
+ORD5508,2025-10-26,C1097,Karthik,Mumbai,Clothing,Kurta,2,1200,20,Cash on Delivery,Cancelled,5
+ORD5569,2025-01-03,C1052,Vijay,Chennai,Clothing,Jeans,3,1800,20,UPI,Returned,5
+ORD5553,12/07/2025,C1046,Vijay,Mumbai,Electronics,Power Bank,1,1500,15,Cash on Delivery,Delivered,4
+ORD5404,2025-10-18,C1116,Lakshmi,Chennai,Electronics,Power Bank,2,1500,0,Net Banking,Delivered,5
+ORD5537,2025-11-27,C1023,Vijay,Delhi,Electronics,Smart Watch,2,4500,0,,Cancelled,2
+ORD5262,2025-02-05,C1089,Priya,Hyderabad,Electronics,Smartphone,2,15000,0,Debit Card,Delivered,3
+ORD5389,2025-04-21,C1103,Priya,Madurai,Clothing,T-Shirt,4,600,,Credit Card,Delivered,3
+ORD5145,06/09/2025,C1034,Anitha,Chennai,Home,Pressure Cooker,2,1600,,Cash on Delivery,Delivered,3
+ORD5441,2025-07-28,C1024,Divya,Mumbai,Home,Bedsheet,3,900,10,Net Banking,Pending,4
+ORD5187,2025-10-07,C1017,Vijay,Coimbatore,Electronics,Power Bank,1,1500,20,Credit Card,Pending,5
+ORD5053,2025-02-11,C1035,Lakshmi,Delhi,Home,Water Bottle,2,350,0,Net Banking,Delivered,4
+ORD5356,03/06/2025,C1013,Gopal,Madurai,Clothing,Saree,1,2500,,Credit Card,Cancelled,3
+ORD5246,2025-04-01,C1116,Lakshmi,Chennai,Grocery,Dal 1kg,1,140,10,Cash on Delivery,Delivered,4
+ORD5041,2025-04-01,C1099,Karthik,Delhi,Home,Bedsheet,4,900,20,Net Banking,Delivered,1
+ORD5435,2025-08-01,C1100,Pooja,Delhi,Home,Mixer Grinder,1,3200,0,Net Banking,Returned,
+ORD5576,2025-02-16,C1020,Karthik,Bengaluru,Home,Mixer Grinder,4,3200,,Cash on Delivery,Returned,4
+ORD5183,2025-11-11,C1037,Vijay,Bengaluru,Home,Mixer Grinder,1,3200,0,Net Banking,Delivered,3
+ORD5493,2025-09-13,C1102,Nisha,Hyderabad,Home,Mixer Grinder,2,3200,5,UPI,Delivered,1
+ORD5600,2025-08-19,C1046,Vijay,Mumbai,Home,Water Bottle,1,350,15,Credit Card,Returned,3
+ORD5059,30/09/2025,C1101,Suresh,Coimbatore,Electronics,Power Bank,2,1500,20,Debit Card,Delivered,5
+ORD5444,2025-12-27,C1058,Lakshmi,Mumbai,Electronics,Power Bank,1,1500,5,,Pending,5
+ORD5361,2025-11-27,C1024,Divya,Mumbai,Home,Water Bottle,1,350,0,Cash on Delivery,Delivered,2
+ORD5050,2025-08-28,C1043,Priya,HYDERABAD,Home,Bedsheet,1,900,15,Net Banking,Delivered,4
+ORD5313,2025-08-25,C1075,Meena, mumbai ,Grocery,Basmati Rice 5kg,3,650,0,Cash on Delivery,Pending,4
+ORD5138,23/02/2025,C1036,Meena,Bengaluru,Clothing,Saree,2,2500,15,Credit Card,Delivered,5
+ORD5487,2025-01-24,C1014,Arun,Delhi,Home,Pressure Cooker,1,1600,5,Debit Card,Delivered,5
+ORD5276,2025-05-18,C1092,Nisha,Chennai,Grocery,Basmati Rice 5kg,2,650,20,Net Banking,Returned,1
+ORD5396,2025-05-24,C1027,Karthik,HYDERABAD,Grocery,Tea Powder 500g,2,260,0,UPI,Returned,3
+ORD5130,01/02/2025,C1038,Deepa,Coimbatore,Home,Mixer Grinder,2,3200,10,Cash on Delivery,Cancelled,2
+ORD5215,2025-06-02,C1061,Gopal,Bengaluru,Grocery,Dal 1kg,2,140,0,UPI,Delivered,5
+ORD5275,2025-11-28,C1032,Karthik,Chennai,Grocery,Tea Powder 500g,1,260,10,Debit Card,Delivered,5
+ORD5013,2025-12-09,C1040,Ravi,Mumbai,Clothing,Jeans,3,1800,,Credit Card,Delivered,
+ORD5235,2025-09-23,C1111,Meena,Coimbatore,Electronics,Earbuds,1,2000,15,,Cancelled,5
+ORD5478,2025-12-19,C1070,Karthik,BENGALURU,Home,Bedsheet,2,900,5,Credit Card,Delivered,1
+ORD5473,2025-12-05,C1098,Nisha,Delhi,Electronics,Smartphone,1,15000,20,UPI,Delivered,2
+ORD5188,2025-03-11,C1089,Priya,,Home,Bedsheet,1,900,20,Cash on Delivery,Delivered,4
+ORD5239,2025-03-04,C1071,Manoj,Hyderabad,Clothing,Saree,2,2500,20,Net Banking,Delivered,4
+ORD5418,2025-01-18,C1020,Karthik,Bengaluru,Home,Mixer Grinder,1,3200,0,Debit Card,Delivered,2
+ORD5348,2025-05-18,C1105,Kavya,Bengaluru,Grocery,Dal 1kg,1,140,5,Debit Card,Returned,3
+ORD5242,2025-05-05,C1017,Vijay,Coimbatore,Electronics,Earbuds,1,2000,20,Net Banking,Delivered,3
+ORD5297,2025-12-13,C1020,Karthik,Bengaluru,Grocery,Dal 1kg,2,140,5,Cash on Delivery,Pending,3
+ORD5572,2025-12-15,C1054,Kiran,Coimbatore,Clothing,Saree,2,2500,0,Cash on Delivery,Returned,5
+ORD5437,2025-01-20,C1049,Divya,Coimbatore,Home,Pressure Cooker,1,1600,5,Cash on Delivery,Delivered,4
+ORD5535,2025-04-18,C1070,Karthik,Bengaluru,Electronics,Power Bank,3,1500,20,Debit Card,Delivered,4
+ORD5578,2025-12-31,C1119,Karthik,Chennai,Home,Water Bottle,2,350,0,Credit Card,Cancelled,5
+ORD5126,2025-10-04,C1109,Deepa,Bengaluru,Grocery,Cooking Oil 1L,1,180,0,UPI,Cancelled,1
+ORD5057,2025-06-09,C1039,Deepa,,Electronics,Smartphone,2,15000,20,Cash on Delivery,Delivered,
+ORD5502,27/10/2025,C1067,Meena,Coimbatore,Electronics,Smart Watch,2,4500,15,Credit Card,Cancelled,3
+ORD5349,2025-12-16,C1072,Harish,Hyderabad,Home,Water Bottle,4,350,0,UPI,Delivered,5
+ORD5383,24/09/2025,C1011,Pooja,Bengaluru,Electronics,Earbuds,2,2000,20,Debit Card,Delivered,2
